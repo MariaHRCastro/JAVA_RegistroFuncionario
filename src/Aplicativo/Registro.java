@@ -14,6 +14,7 @@ public class Registro {
 		Scanner sc = new Scanner (System.in);
 		List <Funcionario> list = new ArrayList<>();
 		
+		System.out.println("Olá!");
 		System.out.print("Quantos empregados serão registrados? ");
 		int n = sc.nextInt();
 		
