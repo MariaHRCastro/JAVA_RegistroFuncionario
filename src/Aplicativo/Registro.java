@@ -15,6 +15,7 @@ public class Registro {
 		List <Funcionario> list = new ArrayList<>();
 		
 		System.out.println("Olá!");
+		System.out.println("Bem vindo à folha de ponto automática:");
 		System.out.print("Quantos empregados serão registrados? ");
 		int n = sc.nextInt();
 		
